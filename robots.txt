@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://boying01.cn/sitemap.xml
